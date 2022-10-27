@@ -1,6 +1,6 @@
 {
   "name": "com.bunke.unity-utilties",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Custom Utilities",
   "description": "A universal set of assets to create Unity applications",
   "unity": "2021.3",
