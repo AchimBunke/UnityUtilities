@@ -1,0 +1,11 @@
+{
+  "name": "com.bunke.UnityUtilties",
+  "version": "0.0.1",
+  "displayName": "Custom Utilities",
+  "description": "A universal set of assets to create Unity applications",
+  "unity": "2021.3",
+  "author": {
+    "name": "Achim Bunke",
+    "email": "achim.bunke@gmail.com"
+  }
+}
